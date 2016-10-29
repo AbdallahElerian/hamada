@@ -4,6 +4,8 @@
 #include "mainwindow.h"
 #include <QLayout>
 
+//abdallah
+
 AddDialog::AddDialog(QWidget *parent) :
     QDialog(parent),
     ui(new Ui::AddDialog)
